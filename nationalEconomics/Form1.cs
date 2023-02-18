@@ -37,12 +37,6 @@ namespace nationalEconomics
             USA form = new USA(flag);
             form.Show();
         }
-
-        private void pictureBox3_Click(object sender, EventArgs e)
-        {
-            RUS form = new RUS();
-            form.Show();
-        }
     }
 }
 

@@ -8,10 +8,11 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>nationalEconomics</RootNamespace>
     <AssemblyName>nationalEconomics</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -54,12 +55,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RUS.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="RUS.Designer.cs">
-      <DependentUpon>RUS.cs</DependentUpon>
-    </Compile>
     <Compile Include="USA.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -78,9 +73,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="RUS.resx">
-      <DependentUpon>RUS.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="USA.resx">
       <DependentUpon>USA.cs</DependentUpon>
     </EmbeddedResource>

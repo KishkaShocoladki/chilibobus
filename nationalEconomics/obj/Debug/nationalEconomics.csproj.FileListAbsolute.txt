@@ -10,3 +10,15 @@ C:\Users\K\Source\Repos\KishkaShocoladki\chilibobus2\nationalEconomics\obj\Debug
 C:\Users\K\Source\Repos\KishkaShocoladki\chilibobus2\nationalEconomics\obj\Debug\nationalEconomics.exe
 C:\Users\K\Source\Repos\KishkaShocoladki\chilibobus2\nationalEconomics\obj\Debug\nationalEconomics.pdb
 C:\Users\K\Source\Repos\KishkaShocoladki\chilibobus2\nationalEconomics\obj\Debug\nationalEconomics.RUS.resources
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.Form1.resources
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.Properties.Resources.resources
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.USA.resources
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.exe
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\obj\Debug\nationalEconomics.pdb
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\bin\Debug\nationalEconomics.exe.config
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\bin\Debug\nationalEconomics.exe
+C:\Users\user\Source\Repos\VanyaAlekseev\meow\nationalEconomics\bin\Debug\nationalEconomics.pdb
