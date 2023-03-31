@@ -1,0 +1,11 @@
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\natEc.csproj.AssemblyReference.cache
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\natEc.csproj.GenerateResource.cache
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\K\Source\Repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\natEc.csproj.CoreCompileInputs.cache
+C:\Users\K\source\repos\KishkaShockoladki\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
